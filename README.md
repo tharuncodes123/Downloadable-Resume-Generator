@@ -1,1 +1,1 @@
-# Downloadable-Resume-Gnerator
+# Downloadable-Resume-Generator
